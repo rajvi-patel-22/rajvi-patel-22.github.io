@@ -25,8 +25,8 @@ title: Resume
 
 I have successfully applied my software engineering expertise to develop effective solutions for real-world challenges. With a proven ability to work both independently and collaboratively, I consistently deliver high-quality results.
 
-- **Crest Data Systems**, Ahmedabad, India *(Jan 2021 - Oct 2022)* <br>
-  <span style="font-weight: bold; color: #999;">Software Engineer</span> | *Python (FastAPI), ELK Stack, Golang*
+- **Crest Data Systems**, Ahmedabad, India *(Jan 2021 - Nov 2023)* <br>
+  <span style="font-weight: bold; color: #999;">Senior Software Engineer</span> | *Python (FastAPI), ELK Stack, Golang*
   - Responsible for developing solutions and leading end-to-end project operations, including gathering client requirements, estimating necessary work, suggesting delivery schedules, and delivering the final product to the client.
   - Designed a Selenium script to automate lens migration task thereby increasing efficiency by 76%.
   - Designed and implemented over 10 Elasticsearch integrations, enhancing Security and Observability functionalities.
