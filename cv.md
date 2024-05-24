@@ -7,7 +7,7 @@ title: Resume
 
 {% include contact.html %}
 
-**TL;DR:** Check out my qualifications and accomplishments in my [resume PDF](http://rajvi-patel.github.io/resume/){:target="_blank"}!
+**TL;DR:** Check out my qualifications and accomplishments in my [resume PDF](http://rajvi-patel-22.github.io/resume/){:target="_blank"}!
 
 ## Education
 
