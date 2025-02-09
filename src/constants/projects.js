@@ -11,8 +11,8 @@ const projects = [
 			'FFmpeg',
 			'Machine Learning'
 		],
-		code: 'https://github.com/rajvi-patel-22/IdentiScan',
-		// image: '/Users/rajvipatel/Documents/Projects/2025/portfolio/src/assets/images/face-recog.jpg',
+		code: 'https://github.com/rajvi-patel-22/Autoscaling-System-with-Dynamic-Queue-Management',
+		image: 'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/face-recog.jpg',
 		// demo: 'https://ecommerce-admin.computerbyte.in',
 		present: true,
 	},
@@ -29,7 +29,7 @@ const projects = [
 		code: 'https://github.com/rameskum/ecommerce-store',
 		demo: 'https://ecommerce-store.computerbyte.in',
 		image:
-			'https://raw.githubusercontent.com/rameskum/ecommerce-store/main/Store.jpeg',
+			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/internet-radio.png',
 		present: true,
 	},
 	{
@@ -41,7 +41,7 @@ const projects = [
 		code: 'https://github.com/rameskum/hello-dog',
 		demo: 'https://rameskum.github.io/hello-dog/',
 		image:
-			'https://raw.githubusercontent.com/rameskum/hello-dog/master/src/res/hello-dog.png',
+			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/moodify.png',
 		present: true,
 	},
 	{

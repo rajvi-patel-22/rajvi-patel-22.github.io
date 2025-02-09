@@ -17,6 +17,11 @@
 
   .about-info p {
     text-align: justify;
+    letter-spacing: 0.05rem;
+  }
+
+  .project-info p {
+    letter-spacing: 0.05rem;
   }
   .about-main {
     padding: 5rem 0rem;
