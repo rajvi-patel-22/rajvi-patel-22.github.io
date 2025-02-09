@@ -26,7 +26,7 @@ const Education = () => {
                 </div>
                 <article className="job-info">
                     <h3>{position}</h3>
-                    <h4>{mainCompany + ' - ' + location}</h4>
+                    <a href={clgUrl} target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;"><h4>{mainCompany + ' - ' + location}</h4></a>
                     <p className="job-date">{duration}</p>
                     <div className="project-stack">
                 {bullets.map((tag, idx) => {
