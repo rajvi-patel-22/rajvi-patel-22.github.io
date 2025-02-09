@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
 const Education = () => {
     const [value, setValue] = React.useState(0)
     education.sort((a , b) => (b.id - a.id)); // sort by reverse chronological
-    const {mainCompany, location, position, duration, bullets} = education[value]
+    const {mainCompany, location, position, duration, bullets, url} = education[value]
     return (
         <section className="section education">
             <Title title="Education"/>
