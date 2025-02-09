@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.de39fa6d.css",
-    "main.js": "/static/js/main.609b152a.js",
+    "main.js": "/static/js/main.e5ea890f.js",
     "static/media/connect.mp4": "/static/media/connect.332a6031b8508eb8b84f.mp4",
     "static/media/rajvi.jpg": "/static/media/rajvi.31a966559a1e790a33db.jpg",
     "static/media/moodify.png": "/static/media/moodify.4e8678c87826f4b59ff2.png",
@@ -13,10 +13,10 @@
     "static/media/rest-api.svg": "/static/media/rest-api.abdaacaa21fdfc264c0783b9e425d55a.svg",
     "index.html": "/index.html",
     "main.de39fa6d.css.map": "/static/css/main.de39fa6d.css.map",
-    "main.609b152a.js.map": "/static/js/main.609b152a.js.map"
+    "main.e5ea890f.js.map": "/static/js/main.e5ea890f.js.map"
   },
   "entrypoints": [
     "static/css/main.de39fa6d.css",
-    "static/js/main.609b152a.js"
+    "static/js/main.e5ea890f.js"
   ]
 }
