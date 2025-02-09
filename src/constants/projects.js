@@ -12,8 +12,7 @@ const projects = [
 			'Machine Learning'
 		],
 		code: 'https://github.com/rajvi-patel-22/Autoscaling-System-with-Dynamic-Queue-Management',
-		image: 'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/face-recog.jpg',
-		// demo: 'https://ecommerce-admin.computerbyte.in',
+		image: 'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/autoscale.png',
 		present: true,
 	},
 	{
@@ -26,8 +25,7 @@ const projects = [
 			'Socket Programming',
 			'FFmpeg',
 		],
-		code: 'https://github.com/rameskum/ecommerce-store',
-		demo: 'https://ecommerce-store.computerbyte.in',
+		code: 'https://github.com/rajvi-patel-22/Internet-Radio-Multicasting-Multimedia-over-IP',
 		image:
 			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/internet-radio.png',
 		present: true,
@@ -38,38 +36,38 @@ const projects = [
 		description:
 			'This project utilizes natural language processing (NLP) and machine learning techniques to classify songs into mood categories such as happy, sad, energetic, and calm based on their lyrics. Implemented in Python using libraries like NLTK, Scikit-learn, and TensorFlow, it includes steps for text preprocessing, feature extraction (TF-IDF, word embeddings), and model training with classifiers like SVM and Neural Networks. The project achieved high accuracy and provides interactive visualizations for performance evaluation, with potential for future enhancements like multilingual lyric support and transformer-based models.',
 		tags: ['Python', 'NLTK', 'Scikit-learn', 'TensorFlow', 'Pandas', 'Machine Learning'],
-		code: 'https://github.com/rameskum/hello-dog',
-		demo: 'https://rameskum.github.io/hello-dog/',
+		code: 'https://github.com/rajvi-patel-22/Moodify',
 		image:
 			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/moodify.png',
 		present: true,
 	},
 	{
-		id: 11,
+		id: 4,
 		title: 'Predicting Thalassemia Transmission Using Markov Processes',
 		description:
 			'This project focuses on modeling how thalassemia traits are passed down through generations using Markov processes. By simulating different parental genotypes, it predicts the likelihood of children being unaffected, carriers, or affected by the disorder. Developed in MATLAB, it provides clear visualizations and insights into how severe traits can diminish over time with strategic parental genotype combinations.',
 		tags: ['Java', 'Probability', 'MATLAB', 'HTML', 'CSS'],
-		code: 'https://github.com/rameskum/breaking-bad',
-		demo: 'https://rameskum.github.io/breaking-bad/',
+		code: 'https://github.com/rajvi-patel-22/Predicting-Thalassemia-Inheritance',
 		image:
-			'https://raw.githubusercontent.com/rameskum/breaking-bad/main/breaking-bad-app-ss.png',
+			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/markov.jpg',
 	},
 	{
-		id: 12,
+		id: 5,
 		title: 'Estimating the Effect of Climate Change on Sea Level Using Machine Learning',
 		description: 'This project uses machine learning to predict sea level rise globally and in specific regions like San Francisco by analyzing environmental factors such as temperature, precipitation, and greenhouse gas levels. Models like neural networks, random forests, and SVMs are implemented, with PCA used for dimensionality reduction. The results demonstrate the effectiveness of neural networks for global predictions and random forests for localized predictions, showcasing the potential of data-driven approaches to address the impacts of climate change.',
 		tags: ['Python', 'Machine Learning', 'PCA', 'Matplotlib', 'Neural Networks', 'Random Forests', 'Support Vector Machines'],
-		code: 'https://github.com/rameskum/dog-facts',
-		demo: 'https://rameskum.github.io/dog-facts/',
+		code: 'https://github.com/rajvi-patel-22/Estimating-the-Effect-of-Climate-Change-on-Sea-Level',
+		image:
+			'https://raw.githubusercontent.com/rajvi-patel-22/Estimating-the-Effect-of-Climate-Change-on-Sea-Level/master/Figures/nn_rec.jpg',
 	},
 	{
-		id: 13,
+		id: 6,
 		title: 'Linear Discriminant Analysis of a 32x32 Grayscale Image for Image Compression',
 		description: 'This project applies Linear Discriminant Analysis (LDA) to transform 32x32 grayscale images into a lower-dimensional space, maximizing class separability while minimizing loss. Implemented in MATLAB and translated to Verilog, the design was optimized to reduce FPGA processing time by 25%. Simulated using Xilinx ISE, the system achieved 99% classification accuracy, demonstrating efficient hardware execution and effective dimensionality reduction.',
 		tags: [ 'MATLAB', 'Verilog', 'FPGA', 'Xilinx ISE'],
-		code: 'https://github.com/rameskum/dog-facts',
-		demo: 'https://rameskum.github.io/dog-facts/',
+		code: 'https://github.com/rajvi-patel-22/Linear-Discriminant-Analysis-of-a-32x32-grayscale-image-for-image-compression',
+		image:
+			'https://raw.githubusercontent.com/rajvi-patel-22/rajvi-patel-22.github.io/main/src/assets/images/LDA.png',
 	}
 ];
 
