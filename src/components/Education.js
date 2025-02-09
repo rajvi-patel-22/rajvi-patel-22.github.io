@@ -26,21 +26,13 @@ const Education = () => {
                 </div>
                 <article className="job-info">
                     <h3>{position}</h3>
-                    <a href={clgUrl} target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;"><h4>{mainCompany + ' - ' + location}</h4></a>
+                    <a href={url} target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;"><h4>{mainCompany + ' - ' + location}</h4></a>
                     <p className="job-date">{duration}</p>
                     <div className="project-stack">
                 {bullets.map((tag, idx) => {
                     return <span key={'tag-' + idx}>{tag}</span>;
                 })}
             </div>
-                    {/* {bullets.map((item, idx) => {
-                        return (
-                            <div key={'bull' + idx} className="job-desc">
-                                <FaAngleDoubleRight className="job-icon"/>
-                                <p>{item}</p>
-                            </div>
-                        )
-                    })} */}
                 </article>
             </div>
             <Link to='/about' className='btn center-btn'>more info</Link>
