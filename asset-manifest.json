@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0e30b33d.css",
-    "main.js": "/portfolio/static/js/main.8c6dba8b.js",
-    "static/media/connect.mp4": "/portfolio/static/media/connect.332a6031b8508eb8b84f.mp4",
-    "static/media/rajvi.jpg": "/portfolio/static/media/rajvi.31a966559a1e790a33db.jpg",
-    "static/media/moodify.png": "/portfolio/static/media/moodify.4e8678c87826f4b59ff2.png",
-    "static/media/about.png": "/portfolio/static/media/about.03d232c0be2bf4f51c0f.png",
-    "static/media/contact.png": "/portfolio/static/media/contact.db9363461e96e0111ae0.png",
-    "static/media/project-1.jpeg": "/portfolio/static/media/project-1.ffe9a853632deabf1ef2.jpeg",
-    "static/media/404.svg": "/portfolio/static/media/404.6fbf73b5b58fe380469debbfa5fe8eb0.svg",
-    "static/media/hero-img.svg": "/portfolio/static/media/hero-img.70e0309155f035a864afd7397e22aa0d.svg",
-    "static/media/rest-api.svg": "/portfolio/static/media/rest-api.abdaacaa21fdfc264c0783b9e425d55a.svg",
-    "index.html": "/portfolio/index.html",
-    "main.0e30b33d.css.map": "/portfolio/static/css/main.0e30b33d.css.map",
-    "main.8c6dba8b.js.map": "/portfolio/static/js/main.8c6dba8b.js.map"
+    "main.css": "/static/css/main.0e30b33d.css",
+    "main.js": "/static/js/main.ec779bfe.js",
+    "static/media/connect.mp4": "/static/media/connect.332a6031b8508eb8b84f.mp4",
+    "static/media/rajvi.jpg": "/static/media/rajvi.31a966559a1e790a33db.jpg",
+    "static/media/moodify.png": "/static/media/moodify.4e8678c87826f4b59ff2.png",
+    "static/media/about.png": "/static/media/about.03d232c0be2bf4f51c0f.png",
+    "static/media/contact.png": "/static/media/contact.db9363461e96e0111ae0.png",
+    "static/media/project-1.jpeg": "/static/media/project-1.ffe9a853632deabf1ef2.jpeg",
+    "static/media/404.svg": "/static/media/404.6fbf73b5b58fe380469debbfa5fe8eb0.svg",
+    "static/media/hero-img.svg": "/static/media/hero-img.70e0309155f035a864afd7397e22aa0d.svg",
+    "static/media/rest-api.svg": "/static/media/rest-api.abdaacaa21fdfc264c0783b9e425d55a.svg",
+    "index.html": "/index.html",
+    "main.0e30b33d.css.map": "/static/css/main.0e30b33d.css.map",
+    "main.ec779bfe.js.map": "/static/js/main.ec779bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.0e30b33d.css",
-    "static/js/main.8c6dba8b.js"
+    "static/js/main.ec779bfe.js"
   ]
 }
