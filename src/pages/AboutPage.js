@@ -21,7 +21,7 @@ function AboutPage() {
             {/* <p>Let’s connect and build something extraordinary—both in code and in life!</p> */}
             <p>
               <a
-                href="https://github.com/rameskum/rameskum/raw/main/RAMESH_KUMAR.pdf" //TODO: add resume
+                href="https://github.com/rajvi-patel-22/rajvi-patel-22.github.io/blob/main/src/assets/resume/RajviPatel_Resume.pdf" //TODO: add resume
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn hero-btn"

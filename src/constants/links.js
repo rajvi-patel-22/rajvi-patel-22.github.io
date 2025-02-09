@@ -19,12 +19,12 @@ const links = [
 		text: 'contact',
 		url: '/contact/',
 	},
-	{
-		id: 'blogs',
-		text: 'Blogs',
-		url: 'https://blogs.rameskum.com/',
-		target: '_blank',
-	},
+	// {
+	// 	id: 'blogs',
+	// 	text: 'Blogs',
+	// 	url: 'https://blogs.rameskum.com/',
+	// 	target: '_blank',
+	// },
 ];
 
 export default links;
