@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e30b33d.css",
-    "main.js": "/static/js/main.4624b311.js",
-    "static/media/connect.mp4": "/static/media/connect.332a6031b8508eb8b84f.mp4",
-    "static/media/rajvi.jpg": "/static/media/rajvi.31a966559a1e790a33db.jpg",
-    "static/media/moodify.png": "/static/media/moodify.4e8678c87826f4b59ff2.png",
-    "static/media/about.png": "/static/media/about.03d232c0be2bf4f51c0f.png",
-    "static/media/contact.png": "/static/media/contact.db9363461e96e0111ae0.png",
-    "static/media/project-1.jpeg": "/static/media/project-1.ffe9a853632deabf1ef2.jpeg",
-    "static/media/404.svg": "/static/media/404.6fbf73b5b58fe380469debbfa5fe8eb0.svg",
-    "static/media/hero-img.svg": "/static/media/hero-img.70e0309155f035a864afd7397e22aa0d.svg",
-    "static/media/rest-api.svg": "/static/media/rest-api.abdaacaa21fdfc264c0783b9e425d55a.svg",
-    "index.html": "/index.html",
-    "main.0e30b33d.css.map": "/static/css/main.0e30b33d.css.map",
-    "main.4624b311.js.map": "/static/js/main.4624b311.js.map"
+    "main.css": "/rajvi-patel-22.github.io/static/css/main.0e30b33d.css",
+    "main.js": "/rajvi-patel-22.github.io/static/js/main.a2bf64df.js",
+    "static/media/connect.mp4": "/rajvi-patel-22.github.io/static/media/connect.332a6031b8508eb8b84f.mp4",
+    "static/media/rajvi.jpg": "/rajvi-patel-22.github.io/static/media/rajvi.31a966559a1e790a33db.jpg",
+    "static/media/moodify.png": "/rajvi-patel-22.github.io/static/media/moodify.4e8678c87826f4b59ff2.png",
+    "static/media/about.png": "/rajvi-patel-22.github.io/static/media/about.03d232c0be2bf4f51c0f.png",
+    "static/media/contact.png": "/rajvi-patel-22.github.io/static/media/contact.db9363461e96e0111ae0.png",
+    "static/media/project-1.jpeg": "/rajvi-patel-22.github.io/static/media/project-1.ffe9a853632deabf1ef2.jpeg",
+    "static/media/404.svg": "/rajvi-patel-22.github.io/static/media/404.6fbf73b5b58fe380469debbfa5fe8eb0.svg",
+    "static/media/hero-img.svg": "/rajvi-patel-22.github.io/static/media/hero-img.70e0309155f035a864afd7397e22aa0d.svg",
+    "static/media/rest-api.svg": "/rajvi-patel-22.github.io/static/media/rest-api.abdaacaa21fdfc264c0783b9e425d55a.svg",
+    "index.html": "/rajvi-patel-22.github.io/index.html",
+    "main.0e30b33d.css.map": "/rajvi-patel-22.github.io/static/css/main.0e30b33d.css.map",
+    "main.a2bf64df.js.map": "/rajvi-patel-22.github.io/static/js/main.a2bf64df.js.map"
   },
   "entrypoints": [
     "static/css/main.0e30b33d.css",
-    "static/js/main.4624b311.js"
+    "static/js/main.a2bf64df.js"
   ]
 }
