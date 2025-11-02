@@ -4,7 +4,7 @@ const jobs = [
         company: 'Crest Data',
         mainCompany: 'Crest Data',
         location: 'Ahmedabad, India',
-        position: 'Software Developer Intern',
+        position: 'Software Engineer Intern',
         duration: 'May 2023 - Nov 2023',
         companyUrl: 'https://www.crestdata.ai/',
         bullets: [
@@ -17,7 +17,7 @@ const jobs = [
         company: 'Crest Data',
         mainCompany: 'Crest Data',
         location: 'Ahmedabad, India',
-        position: 'Software Developer',
+        position: 'Software Engineer',
         duration: 'Jun 2021 - May 2023',
         companyUrl: 'https://www.crestdata.ai/',
         bullets: [
@@ -31,7 +31,7 @@ const jobs = [
         company: 'Crest Data',
         mainCompany: 'Crest Data',
         location: 'Ahmedabad, India',
-        position: 'Senior Software Developer',
+        position: 'Senior Software Engineer',
         duration: 'May 2023 - Nov 2023',
         companyUrl: 'https://www.crestdata.ai/',
         bullets: [
@@ -46,7 +46,7 @@ const jobs = [
         company: 'ASU',
         mainCompany: 'DigInG',
         location: 'Arizona, USA',
-        position: 'Software Developer',
+        position: 'Software Engineer',
         duration: 'Feb 2024 - Present',
         companyUrl: 'https://diging.asu.edu/',
         bullets: [
@@ -54,6 +54,21 @@ const jobs = [
             "Optimized MongoDB queries, slashing response times by 20% and improving overall system performance.",
             "Improved map load times by implementing asynchronous data fetching and paginated API to handle 4GB+ of data.",
             "Implemented JWT-based token authentication in Conceptpower, enabling secure third-party API integrations."
+        ]
+    },
+    {
+        id: 5,
+        company: 'ASU',
+        mainCompany: 'Silverton Software',
+        location: 'Arizona, USA',
+        position: 'Software Engineer',
+        duration: 'Jun 2025 - Present',
+        companyUrl: 'https://silvertonsoftware.com/',
+        bullets: [
+            "Engineered a fault-tolerant, offline-first app (React Native + FastAPI), ensuring 99.9% uptime under unstable network.",
+            "Implemented SQLite-based caching and deduplication, cutting redundant API calls by 68%, improving system scalability.",
+            "Designed REST APIs with JWT auth, RBAC, CORS, and rate limiting, reducing 95th-percentile latency by 40%.",
+            "Streamlined retry mechanisms with exponential backoff that reduced retry spikes by 35%, enhancing system reliability."
         ]
     }
 ]
